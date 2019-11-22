@@ -1,8 +1,15 @@
 // from https://github.com/jamesseanwright/ron-swanson-quotes/blob/master/quotes.js
 // and from http://www.imdb.com/character/ch0144619/quotes
+// and from https://quotecatalog.com/communicator/ron-swanson/
 
 module.exports = [
     "Clear alcohols are for rich women on diets.",
+    "That is a canvas sheet, the most versatile object known to man. It can be used to make tents, backpacks, shoes, stretchers, sails, tarpaulins, and I suppose, in the most dire of circumstances, it can be a surface on which to make art.",
+    "My first ex-wife's name is Tammy. My second ex-wife's name is Tammy. My Mom's name is Tamara...she goes by Tammy.",
+    "It’s pointless for a human to paint scenes of nature when they can go outside and stand in it.",
+    "Normally, if given the choice between doing something and nothing, I’d choose to do nothing. But I will do something if it helps someone else do nothing. I’d work all night, if it meant nothing got done.",
+    "Child labor laws are ruining this country.",
+    "I'd wish you the best of luck but I believe luck is a concept created by the weak to explain their failures.",
     "Crying: acceptable at funerals and the Grand Canyon.",
     "I call this turf ‘n’ turf. It's a 16 oz T-bone and a 24 oz porterhouse. Also, whiskey and a cigar. I am going to consume all of this at the same time because I am a free American.",
     "Under my tutelage, you will grow from boys to men. From men into gladiators. And from gladiators into Swansons.",

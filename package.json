@@ -7,7 +7,7 @@
     "start": "NODE_ENV=production pm2 start index.js --name ron -i 0"
   },
   "keywords": [],
-  "author": "Cameron Nokes",
+  "author": "Pablo Loschi",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.2",
